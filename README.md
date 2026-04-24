@@ -30,7 +30,7 @@ If even one person reads the code, learns something, and ships their own thing �
 I'm not trying to build *products*. I'm trying to build **reference implementations** for the patterns that kept showing up across every AI project I've worked on. Here's the current map:
 
 ### 🎯 [`career-agents`](https://github.com/tanujtp/career-agents)
-An AI-powered career operating system — specialised agents for job search, resume tailoring, outreach, interview prep, and follow-ups, orchestrated together.\n
+An AI-powered career operating system — specialised agents for job search, resume tailoring, outreach, interview prep, and follow-ups, orchestrated together.
 **Why:** The job market is broken on both sides. Every candidate deserves a career co-pilot that actually remembers their story. This is also a great playground for **multi-agent orchestration** with real, messy human-in-the-loop workflows.
 
 ### 📄 [`ai-resume-screening-engine`](https://github.com/tanujtp/ai-resume-screening-engine)
