@@ -2,7 +2,7 @@
 
 **AI Product Leader • Builder of agentic systems • Open-source maximalist**
 
-I design and ship real-world **Agentic AI** — multi-agent systems, voice agents, and LLM-powered workflows that solve actual problems for real people. By day I lead product at [SimplAI](https://simplai.ai). By night (and most weekends) I'm here on GitHub, **rebuilding everything I care about in public** and open-sourcing it for anyone who wants to learn, fork, or build on top of it.
+I design and ship real-world **Agentic AI** — multi-agent systems, voice agents, and LLM-powered workflows that solve actual problems for real people. By day I lead AI Product and Platform at [SimplAI](https://simplai.ai). By night (and most weekends) I'm here on GitHub, **rebuilding everything I care about in public** and open-sourcing it for anyone who wants to learn, fork, or build on top of it.
 
 > If you've ever thought *"I wish someone would just show me how an agent is actually wired end-to-end"* — that's the gap I'm trying to close, one repo at a time.
 
